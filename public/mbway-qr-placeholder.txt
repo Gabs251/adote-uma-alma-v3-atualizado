@@ -1,0 +1,3 @@
+Substitua este ficheiro por um QR Code real (ex: mbway-qr.png) e atualize
+NEXT_PUBLIC_MBWAY_QR_URL no .env.local, ou configure o URL diretamente no
+painel administrativo em Dashboard > Configurações MBWay.
