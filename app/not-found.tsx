@@ -9,9 +9,11 @@ export default function NotFound() {
       <p className="mt-3 max-w-md text-brand-600">
         A página que procura pode ter sido movida ou já não existe.
       </p>
-      <Button className="mt-6" asChild={false}>
-        <Link href="/">Voltar ao início</Link>
-      </Button>
+      <Link href="/">
+  <Button className="mt-6">
+    Voltar ao início
+  </Button>
+</Link>
     </div>
   );
 }
